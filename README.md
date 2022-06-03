@@ -10,7 +10,7 @@
 - 💼 https://bit.ly/demostenesbr
 - 🌎 @jcispaulo bit.ly/demostenesbr
 - 📫 Please, sent a message to: demostenes@demostenes.com.br
-- 😄 Pronouns: he / ele
+- 😄 Pronouns: he / him
 - ⚡ Fun fact: I love travel, appear on the parties with sunglass or a cup with water
  
 ##

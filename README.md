@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on  
 - 🤔 I’m looking for help with fix bugs and collaborate devloping
 - 💬 Entrepreneur in technology and communication solutions
-- 💬 Fullstack Developer by ACT Digital / Banco BMG
 - 🎓 Unicamp (Extecamp), USP (LaSSu), INPG and UNISA
 - 📍🇧🇷 Brazil, São Paulo - SP
 - 💼 https://bit.ly/demostenesbr

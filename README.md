@@ -13,7 +13,7 @@
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love travel, appear on the parties with sunglass or a cup with water
 
-![Codewars](https://github.r2v.ch/codewars?user=demostenesbr&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=demostenesbr&theme=gradient)
  
 ##
   

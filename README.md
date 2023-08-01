@@ -12,6 +12,8 @@
 - 📫 Please, sent a message to: demostenes@demostenes.com.br
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love travel, appear on the parties with sunglass or a cup with water
+
+![Codewars](https://github.r2v.ch/codewars?user=demostenesbr&stroke=%23BB432C)
  
 ##
   

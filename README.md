@@ -1,19 +1,43 @@
-### Hello strangers 👋
+### 👋 Experienced Software Engineer | API Specialist | Full-Stack Developer | Agile Enthusiast
 
-- 🔭 I’m currently working on Full Stack Developer
-- 🌱 I’m currently learning Java with Angular
-- 👯 I’m looking to collaborate on  
-- 🤔 I’m looking for help with fix bugs and collaborate devloping
+🔹 About Me:
+I'm a focused software engineer with a passion for crafting innovative digital solutions. My journey in the tech world has equipped me with a diverse skill set, from API design to front-end and back-end development. I thrive in fast-paced, collaborative environments and am committed to delivering high-quality software that solves real-world problems.
+
+- 🔭 I’m currently working on Software Engineet at Weformance
+- 🌱 I’m currently learning Computer Engineer, Systems Engineer on the MBA course
+- 👯 I’m looking to collaborate on private or public projects by companies, entrepreneurs and freelancers  
+- 🤔 I’m looking for help with fix bugs and collaborate devloping on CI/CD process
 - 💬 Entrepreneur in technology and communication solutions
 - 🎓 Univesp, Unicamp (Extecamp), USP (LaSSu), INPG and UNISA
 - 📍🇧🇷 Brazil, São Paulo - SP
 - 💼 https://bit.ly/demostenesbr
-- 🌎 @jcispaulo bit.ly/demostenesbr
+- 🌎 @jcispaulo
 - 📫 Please, sent a message to: demostenes@demostenes.com.br
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love travel, appear on the parties with sunglass or a cup with water
 
+🔹 Expertise:
+- API Development: Proficient in designing, building, and integrating APIs for seamless data exchange.
+- Full-Stack Mastery: Skilled in both front-end and back-end development, ensuring end-to-end excellence.
+- Agile Advocate: Adept at implementing Agile methodologies like Scrum and Kanban for efficient project management.
+- Operational Excellence: Capable of setting up and maintaining operational services to keep software running smoothly.
+- Communication: Strong interpersonal and communication skills, facilitating effective collaboration with cross-functional teams.
+
+🔹 Achievements:
+Throughout my career, I've contributed to numerous successful projects, consistently delivering results that exceed expectations. My ability to navigate complex technical challenges while fostering positive relationships with colleagues has been a cornerstone of my professional journey.
+
+🔹 Codwards external ranking:
 ![Codewars](https://github.r2v.ch/codewars?user=demostenesbr&theme=gradient)
+
+🔹 Let's Connect:
+I'm always eager to connect with fellow tech enthusiasts, industry professionals, and potential collaborators. Whether you're looking to discuss exciting opportunities or share insights, feel free to reach out and let's connect!
+
+🔹 Contact Info:
+📧 Email: [demostenes@demostenes.com.br]
+📱 LinkedIn: [https://www.linkedin.com/in/demostenesbr]
+🌐 Portfolio: [https://www.demostenes.cmo.br]
+
+Let's innovate, collaborate, and drive the future of technology together!
  
 ##
   

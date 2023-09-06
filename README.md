@@ -26,8 +26,6 @@ I'm a focused software engineer with a passion for crafting innovative digital s
 🔹 Achievements:
 Throughout my career, I've contributed to numerous successful projects, consistently delivering results that exceed expectations. My ability to navigate complex technical challenges while fostering positive relationships with colleagues has been a cornerstone of my professional journey.
 
-🔹 Codwards external ranking:
-
 ![Codewars](https://github.r2v.ch/codewars?user=demostenesbr&theme=gradient)
 
 🔹 Let's Connect:

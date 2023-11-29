@@ -1,43 +1,24 @@
-### 👋 Experienced Software Engineer | API Specialist | Full-Stack Developer | Agile Enthusiast
+### 👋 Experienced Software Engineer 
 
 🔹 About Me:
-I'm a focused software engineer with a passion for crafting innovative digital solutions. My journey in the tech world has equipped me with a diverse skill set, from API design to front-end and back-end development. I thrive in fast-paced, collaborative environments and am committed to delivering high-quality software that solves real-world problems.
+I'm a focused software engineer focused in discovery new forms progress.
+Software Engineer | Full Stack Developer | Marketing | 2x Microsoft Azure, 1x AWS Certified and 1x Google Certified
 
-- 🔭 I’m currently working on Software Engineet at Weformance
-- 🌱 I’m currently learning Computer Engineer, Systems Engineer on the MBA course
-- 👯 I’m looking to collaborate on private or public projects by companies, entrepreneurs and freelancers  
-- 🤔 I’m looking for help with fix bugs and collaborate devloping on CI/CD process
-- 💬 Entrepreneur in technology and communication solutions
+- 🔭 I’m currently working on Software Engineet at DM Brito
 - 🎓 Univesp, Unicamp (Extecamp), USP (LaSSu), INPG and UNISA
 - 📍🇧🇷 Brazil, São Paulo - SP
 - 💼 https://bit.ly/demostenesbr
-- 🌎 @jcispaulo
 - 📫 Please, sent a message to: demostenes@demostenes.com.br
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love travel, appear on the parties with sunglass or a cup with water
 
-🔹 Expertise:
-- API Development: Proficient in designing, building, and integrating APIs for seamless data exchange.
-- Full-Stack Mastery: Skilled in both front-end and back-end development, ensuring end-to-end excellence.
-- Agile Advocate: Adept at implementing Agile methodologies like Scrum and Kanban for efficient project management.
-- Operational Excellence: Capable of setting up and maintaining operational services to keep software running smoothly.
-- Communication: Strong interpersonal and communication skills, facilitating effective collaboration with cross-functional teams.
-
-🔹 Achievements:
-Throughout my career, I've contributed to numerous successful projects, consistently delivering results that exceed expectations. My ability to navigate complex technical challenges while fostering positive relationships with colleagues has been a cornerstone of my professional journey.
-
 ![Codewars](https://github.r2v.ch/codewars?user=demostenesbr&theme=gradient)
-
-🔹 Let's Connect:
-I'm always eager to connect with fellow tech enthusiasts, industry professionals, and potential collaborators. Whether you're looking to discuss exciting opportunities or share insights, feel free to reach out and let's connect!
 
 🔹 Contact Info:
 📧 Email: [demostenes@demostenes.com.br]
 📱 LinkedIn: [https://www.linkedin.com/in/demostenesbr]
-🌐 Portfolio: [https://www.demostenes.cmo.br]
+🌐 Portfolio: [https://www.demostenes.com.br]
 
-Let's innovate, collaborate, and drive the future of technology together!
- 
 ##
   
   <div> 
@@ -59,14 +40,7 @@ Let's innovate, collaborate, and drive the future of technology together!
   
   <img align="center" alt="Demo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Demo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Demo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Demo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Demo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" alt="Demo-Bower" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bower/bower-original.svg" />
-  <img align="center" alt="Demo-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Demo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Demo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Demo-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Demo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Demo-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img align="center" alt="Demo-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />

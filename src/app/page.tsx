@@ -9,12 +9,25 @@ export default function Index() {
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
-            <h1>
-              <span> Hello there, </span>
-              Welcome demostenesbr 👋
-            </h1>
+            <h1>Dem&oacute;stenes </h1>
           </div>
 
+          <div id="menu">
+            <ul>
+              <li>
+                <a href="#welcome">Welcome</a>
+              </li>
+              <li>
+                <a href="#commands">Commands</a>
+              </li>
+              <li>
+                <a href="#about">About</a>
+              </li>
+              <li>
+                <a href="#contact">Contact</a>
+              </li>
+            </ul>
+          </div>
           <div id="hero" className="rounded">
             <div className="text-container">
               <h2>
